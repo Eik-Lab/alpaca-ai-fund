@@ -50,7 +50,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Eik-Lab/alpaca-ai-fund.git
-cd ai-hedge-fund
+cd alpaca-ai-fund
 ```
 
 1. Install Poetry (if not already installed):
